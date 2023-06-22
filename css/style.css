@@ -64,3 +64,14 @@
   .pop-mar{
     margin: 2% 8% 2% 8%;
   }
+
+/* calculator */
+  .calculator-keys{
+    margin: 10% !important;
+}
+
+  .btn{
+    color: white !important;
+    background-color: transparent !important;
+    border: transparent !important;
+}
